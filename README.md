@@ -24,7 +24,7 @@ Watch my hardware builds, system teardowns, and engineering research logs in act
 
 ## 🗂️ Djehuty Lab Project Repositories
 
-*   **[📂 smart-glasses-hardware](./smart-glasses-hardware)** — Custom PCB schematics, BOM, 3D optics, & chassis designs. `[CERN-OHL-P]`
+*   **[📂 smart-glasses-hardware](/smart-glasses-hardware)** — Custom PCB schematics, BOM, 3D optics, & chassis designs. `[CERN-OHL-P]`
 *   **[📂 smart-glasses-firmware](./smart-glasses-firmware)** — Low-level display drivers, power management, and bare-metal C/C++ logic. `[MIT]`
 *   **[📂 smart-glasses-software](./smart-glasses-software)** — Smart glasses specific apps. `[MIT]`
 *   **[📂 research-papers](./research-papers)** — Open-access academic preprints, data logs, and sensor datasets. `[CC-BY-4.0]`
