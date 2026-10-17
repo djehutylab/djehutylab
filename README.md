@@ -49,7 +49,7 @@ All discoveries coming out of Djehuty Lab are fully open-source to build communi
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished \(= {\url{https://github.com/djehutylab}}\)}
+  howpublished = {[GitHub Repository](https://github.com/djehutylab)}
 ```
 
 ---
