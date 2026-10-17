@@ -15,9 +15,9 @@ I am a software developer and electrical engineer conducting MSc/PhD research in
 Watch my hardware builds, system teardowns, and engineering research logs in action:
 
 <p align="center">
-[📺 YouTube:](https://www.youtube.com/@DjehutyLab)
-[🌍 Website:](https://djehutylab.com)
-[🔗 LinkedIn:](https://www.linkedin.com/in/mohamedelhawy)
+[📺 YouTube](https://www.youtube.com/@DjehutyLab)
+[🌍 Website](https://djehutylab.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/mohamedelhawy)
 </p>
 
 ---
