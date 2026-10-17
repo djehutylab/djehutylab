@@ -40,7 +40,7 @@ Watch my hardware builds, system teardowns, and engineering research logs in act
 
 ## 🎓 Academic Citation & IP Protection
 
-All discoveries coming out of Djehuty Lab are fully open-source to build community knowledge and establish **prior art** against corporate patent squatting. use my schematics, code, or research frameworks to make the world a true beautiful world with the power of smart glasses.
+All discoveries coming out of Djehuty Lab are fully open-source to build community knowledge and establish **prior art** against corporate patent squatting. use my schematics, code, or research frameworks to make the world a true beautiful place with the power of smart glasses.
  
 ---
 <p align="center">
