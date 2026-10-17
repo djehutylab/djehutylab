@@ -1,9 +1,7 @@
 # 🔬 Hi, I'm Mohamed Elhawy — Founder of Djehuty Lab
 
 <p align="center">
-  <img src="https://shields.io" alt="PhD">
-  <img src="https://shields.io" alt="Focus">
-  <img src="https://shields.io" alt="Status">
+[🔬 **Focus:** Smart Glasses R&D](https://github.com/djehutylab) &nbsp;|&nbsp; [🟢 **Status:** Active Research](https://github.com/djehutylab) &nbsp;|&nbsp; [📜 **License:** CERN-OHL-P](https://github.com/djehutylab)
 </p>
 
 I am a software developer and electrical engineer conducting MSc/PhD research in computer engineering, specializing in smart glasses. Through **Djehuty Lab**, I design, engineer, and open-source next-generation wearable hardware and custom embedded firmware from my independent home electronics bench.
@@ -15,9 +13,7 @@ I am a software developer and electrical engineer conducting MSc/PhD research in
 Watch my hardware builds, system teardowns, and engineering research logs in action:
 
 <p align="center">
-  <a href="[https://djehutylab.com](https://djehutylab.com/)"><img src="https://shields.io" alt="Website"></a>
-  <a href="[https://youtube.com](https://www.youtube.com/@DjehutyLab)"><img src="https://shields.io" alt="YouTube"></a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/mohamedelhawy)"><img src="https://shields.io" alt="LinkedIn"></a>
+[📺 **YouTube:**](https://www.youtube.com/@DjehutyLab) &nbsp;|&nbsp; [🌍 **Website:**](https://djehutylab.com) &nbsp;|&nbsp; [🔗 **LinkedIn:**](https://www.linkedin.com/in/mohamedelhawy)
 </p>
 
 ---
@@ -40,18 +36,8 @@ Watch my hardware builds, system teardowns, and engineering research logs in act
 
 ## 🎓 Academic Citation & IP Protection
 
-All discoveries coming out of Djehuty Lab are fully open-source to build community knowledge and establish **prior art** against corporate patent squatting. If you use my schematics, code, or research frameworks, please cite this work:
-
-```bibtex
-@misc{djehutylab_smart_glasses,
-  author       = {Mohamed Elhawy},
-  title        = {Djehuty Lab Open-Source Smart Glasses Architecture: Hardware, Firmware, and Optics Framework},
-  year         = {2026},
-  publisher    = {GitHub},
-  journal      = {GitHub Repository},
-  howpublished = {https://github.com/djehutylab}
-```
-
+All discoveries coming out of Djehuty Lab are fully open-source to build community knowledge and establish **prior art** against corporate patent squatting. use my schematics, code, or research frameworks to make the world a true beautiful world with the power of smart glasses.
+ 
 ---
 <p align="center">
   🛠️⚡ <i>Engineered independently from the bench.</i>
