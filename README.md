@@ -1,7 +1,9 @@
 # 🔬 Hi, I'm Mohamed Elhawy — Founder of Djehuty Lab
 
 <p align="center">
-[🔬 **Focus:** Smart Glasses R&D](https://github.com/djehutylab) &nbsp;|&nbsp; [🟢 **Status:** Active Research](https://github.com/djehutylab) &nbsp;|&nbsp; [📜 **License:** CERN-OHL-P](https://github.com/djehutylab)
+[🔬 Focus: Smart Glasses R&D](https://github.com/djehutylab)
+[🟢 Status: Active Research](https://github.com/djehutylab)
+[📜 License: CERN-OHL-P](https://github.com/djehutylab)
 </p>
 
 I am a software developer and electrical engineer conducting MSc/PhD research in computer engineering, specializing in smart glasses. Through **Djehuty Lab**, I design, engineer, and open-source next-generation wearable hardware and custom embedded firmware from my independent home electronics bench.
@@ -13,7 +15,9 @@ I am a software developer and electrical engineer conducting MSc/PhD research in
 Watch my hardware builds, system teardowns, and engineering research logs in action:
 
 <p align="center">
-[📺 **YouTube:**](https://www.youtube.com/@DjehutyLab) &nbsp;|&nbsp; [🌍 **Website:**](https://djehutylab.com) &nbsp;|&nbsp; [🔗 **LinkedIn:**](https://www.linkedin.com/in/mohamedelhawy)
+[📺 YouTube:](https://www.youtube.com/@DjehutyLab)
+[🌍 Website:](https://djehutylab.com)
+[🔗 LinkedIn:](https://www.linkedin.com/in/mohamedelhawy)
 </p>
 
 ---
