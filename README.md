@@ -34,7 +34,7 @@ Watch my hardware builds, system teardowns, and engineering research logs in act
 ## ⚡ Current Research Vector
 *   **Optics & Display:** Low-latency, ultra-compact optical waveguide.
 *   **Power Optimization:** Real-time low-power sensor processing loops on bare-metal firmware.
-*   **Sensor Fusion:** Lightweight IMU processing, ambient light mapping, and gaze tracking.
+*   **Sensor Fusion:** Lightweight IMU processing, ambient light mapping, and full-body tracking.
 
 ---
 
@@ -49,7 +49,7 @@ All discoveries coming out of Djehuty Lab are fully open-source to build communi
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {[GitHub Repository](https://github.com/djehutylab)}
+  howpublished = {https://github.com/djehutylab}
 ```
 
 ---
